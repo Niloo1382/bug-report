@@ -25,6 +25,6 @@
 این ریپازیتوری شامل یک قالب استاندارد برای گزارش باگ در مسیر .github/ISSUE_TEMPLATE/bug_report.md است.
 
 ## Reported Issues
-- [Issue #1](لینک-ایشو-۱)
+- [Issue #1](https://github.com/Niloo1382/bug-report/issues/1)
 - [Issue #2](لینک-ایشو-۲)
 - [Issue #3](لینک-ایشو-۳)
