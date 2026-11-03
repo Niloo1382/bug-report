@@ -26,5 +26,5 @@
 
 ## Reported Issues
 - [Issue #1](https://github.com/Niloo1382/bug-report/issues/1)
-- [Issue #2](لینک-ایشو-۲)
+- [Issue #2](https://github.com/Niloo1382/bug-report/issues/2)
 - [Issue #3](لینک-ایشو-۳)
